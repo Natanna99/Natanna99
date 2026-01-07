@@ -1,4 +1,7 @@
-
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Natanna99&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natanna99&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true" height="291" alt="activity-graph graph"  />
+</div>
 
 ###
 
